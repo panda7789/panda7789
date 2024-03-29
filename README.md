@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @panda7789 (Lukáš Linhart)
-- 👀 I’m interested in Coding, Opensource, Music
+- 👀 I’m interested in Programming, Opensource, Music
 - 🏢 I'm working as Analyst/Programmer. Mostly with C#.
-- 🌱 I’m currently learning React and API design
-
-- Currently reading https://patterns.dev
+- 🌱 I’m learning React and API design
 
 <!---
 panda7789/panda7789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
